@@ -1,7 +1,13 @@
-const CONFIG = {
-    //host: 'http://127.0.0.1',
-    //port: 3000,
+const host = '127.0.0.1'
+const port = 3000
+const protocol = 'http'
+const prefix = `${protocol}://${host}:${port}/`
+
+
+
+export default {
+    prefix,
+    host,
+    port,
+    protocol,
 }
-
-
-export default CONFIG
