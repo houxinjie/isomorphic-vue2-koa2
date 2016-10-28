@@ -1,5 +1,4 @@
 import Koa from 'koa'
-import bodyParser from 'koa-bodyparser'
 import path from 'path'
 import fs from 'fs'
 import serve from 'koa-static'
