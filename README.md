@@ -14,6 +14,6 @@ Open http://127.0.0.1:3000
 
 ### Todo
 
-cli
-backend-orm
-module-loader
+* cli
+* backend-orm
+* module-loader
